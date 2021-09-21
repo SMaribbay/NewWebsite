@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Carattere&family=Playfair+Display:ital,wght@1,500&family=Sora:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carattere&family=Sora:wght@100&display=swap');
+body{
+  background: #D2C7E7;
+  color: black;
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+
+}
+.header {
+  text-align: center;
+
+}
+h1 {
+font-size: 100px;
+  font-family: 'Carattere', cursive;
+  text-align: center;
+background-color: #713594;
+border-color: #DA7AEB;
+border-width: medium;
+
+}
+h2{
+  font-size: 40px;
+  background-color: #135CE0;
+}
+h3{
+  font-size: 30px;
+}
+.specialUnderline{
+
+  text-decoration: underline;
+}
+img-with-text {
+    text-align: justify;
+    width: "300";
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+  margin: 0px 0px 32px 0px;
+}
+
+.heroImage{
+  width: 100%;
+  display: block;
+}
